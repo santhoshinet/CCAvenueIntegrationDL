@@ -1,0 +1,258 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:Utilities.cs" caret="6955" fromTop="8" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:SendMailViaGmail.cs" caret="0" fromTop="0" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:User.cs" caret="557" fromTop="24" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:ToCCAvenue.cs" caret="3470" fromTop="4" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:PreTransactionDetails.cs" caret="378" fromTop="10" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:File.cs" caret="205" fromTop="9" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:Product.cs" caret="78" fromTop="4" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:FromCCAvenue.cs" caret="165" fromTop="7" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:ObjectScopeProvider1.cs" caret="839" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:ToCCAvenue.cs" caret="430" fromTop="14" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:ToCCAvenue.cs" caret="609" fromTop="19" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:ToCCAvenue.cs" caret="9382" fromTop="21" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:FromCCAvenue.cs" caret="451" fromTop="15" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:FromCCAvenue.cs" caret="4140" fromTop="24" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:FromCCAvenue.cs" caret="5254" fromTop="22" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:FromCCAvenue.cs" caret="5753" fromTop="32" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:SendMailViaGmail.cs" caret="0" fromTop="0" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:PreTransactionDetails.cs" caret="433" fromTop="12" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:ToCCAvenue.cs" caret="5179" fromTop="9" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:User.cs" caret="478" fromTop="12" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:User.cs" caret="866" fromTop="28" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:User.cs" caret="252" fromTop="8" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:ToCCAvenue.cs" caret="4511" fromTop="23" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:ToCCAvenue.cs" caret="5248" fromTop="21" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:ToCCAvenue.cs" caret="4038" fromTop="13" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:ToCCAvenue.cs" caret="3569" fromTop="6" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:FromCCAvenue.cs" caret="3954" fromTop="21" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:User.cs" caret="116" fromTop="5" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:PreTransactionDetails.cs" caret="657" fromTop="24" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:PreTransactionDetails.cs" caret="1021" fromTop="37" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:PreTransactionDetails.cs" caret="306" fromTop="12" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:File.cs" caret="187" fromTop="9" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:Product.cs" caret="380" fromTop="13" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:Product.cs" caret="213" fromTop="10" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:FromCCAvenue.cs" caret="742" fromTop="23" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:FromCCAvenue.cs" caret="907" fromTop="28" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:FromCCAvenue.cs" caret="168" fromTop="7" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:ObjectScopeProvider1.cs" caret="0" fromTop="0" />
+      <File id="9BEA1F71-E6D4-4621-ABCE-CA1F84A1319B/f:ObjectScopeProvider1.cs" caret="839" fromTop="11" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="28" />
+      <Item value="string" priority="31" />
+      <Item value="enum" priority="2" />
+      <Item value="DateTime`0" priority="1" />
+      <Item value="TransactionStatus`0" priority="3" />
+      <Item value="ToCcAvenue`0" priority="0" />
+      <Item value="private" priority="3" />
+      <Item value="DbConnectionString" priority="0" />
+      <Item value="dbConnectionString" priority="0" />
+      <Item value="httpRequest" priority="0" />
+      <Item value="var" priority="5" />
+      <Item value="new" priority="5" />
+      <Item value="PreTransactionDetails`0" priority="5" />
+      <Item value="preTransactionDetails" priority="24" />
+      <Item value="ccAvenueMerchantKey" priority="0" />
+      <Item value="accountingCurrencyAmount" priority="0" />
+      <Item value="address1" priority="0" />
+      <Item value="address2" priority="0" />
+      <Item value="address3" priority="0" />
+      <Item value="Environment`0" priority="0" />
+      <Item value="city" priority="0" />
+      <Item value="company" priority="0" />
+      <Item value="country" priority="0" />
+      <Item value="debitNoteIds" priority="0" />
+      <Item value="description" priority="0" />
+      <Item value="emailaddr" priority="0" />
+      <Item value="faxnocc" priority="0" />
+      <Item value="invoiceIds" priority="0" />
+      <Item value="paymentTypeId" priority="0" />
+      <Item value="PaymentTypes`0" priority="0" />
+      <Item value="redirectUrl" priority="0" />
+      <Item value="sellingCurrencyAmount" priority="0" />
+      <Item value="state" priority="0" />
+      <Item value="telno" priority="1" />
+      <Item value="telNocc" priority="0" />
+      <Item value="transId" priority="0" />
+      <Item value="transactionType" priority="0" />
+      <Item value="TransactionTypes`0" priority="1" />
+      <Item value="username" priority="1" />
+      <Item value="userType" priority="0" />
+      <Item value="UserTypes`0" priority="0" />
+      <Item value="zip" priority="0" />
+      <Item value="ObjectScopeProvider1`0" priority="1" />
+      <Item value="scope" priority="7" />
+      <Item value="Utilities`0" priority="2" />
+      <Item value="ccAvenueWorkingKey" priority="0" />
+      <Item value="void" priority="1" />
+      <Item value="bool" priority="1" />
+      <Item value="_gmailUsername" priority="2" />
+      <Item value="gmailUsername" priority="0" />
+      <Item value="_gmailPassword" priority="3" />
+      <Item value="gmailPassword" priority="0" />
+      <Item value="_isErrorMailConfigured" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="exception" priority="3" />
+      <Item value="if" priority="2" />
+      <Item value="else" priority="0" />
+      <Item value="throw" priority="1" />
+      <Item value="static" priority="0" />
+      <Item value="errorinfo" priority="0" />
+      <Item value="password" priority="0" />
+      <Item value="return" priority="3" />
+      <Item value="chksum" priority="0" />
+      <Item value="TransactionStatus" priority="2" />
+      <Item value="from" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Linq" priority="0" />
+      <Item value="where" priority="1" />
+      <Item value="c" priority="1" />
+      <Item value="select" priority="0" />
+      <Item value="orderId" priority="0" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="transactionDetailses" priority="4" />
+      <Item value="Mobileno" priority="0" />
+      <Item value="List" priority="1" />
+      <Item value="sendmail" priority="0" />
+      <Item value="toemails" priority="0" />
+      <Item value="subject" priority="0" />
+      <Item value="messageBody" priority="2" />
+      <Item value="IisTraceListener`0" priority="0" />
+      <Item value="_tomails" priority="2" />
+      <Item value="tomails" priority="0" />
+      <Item value="User`0" priority="2" />
+      <Item value="User" priority="2" />
+      <Item value="PreTransactionDetailses" priority="0" />
+      <Item value="List&lt;PreTransactionDetails&gt;" priority="0" />
+      <Item value="user" priority="0" />
+      <Item value="int" priority="0" />
+      <Item value="double" priority="0" />
+      <Item value="Product`0" priority="0" />
+      <Item value="Products" priority="0" />
+      <Item value="List&lt;Product&gt;" priority="0" />
+      <Item value="byte" priority="0" />
+      <Item value="File`0" priority="0" />
+      <Item value="HttpContext`0" priority="1" />
+      <Item value="Mvc" priority="0" />
+      <Item value="HttpRequest`0" priority="0" />
+      <Item value="NameValueCollectionExtensions`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CCAvenueIntegrationDL.Utilities">
+      <Item value="VerifyChecksum`0" priority="0" />
+      <Item value="Getchecksum`0" priority="0" />
+      <Item value="SendMail`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="ToString`0" priority="1" />
+      <Item value="Append`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CCAvenueIntegrationDL.PreTransactionDetails">
+      <Item value="AccountingCurrencyAmount" priority="0" />
+      <Item value="Address" priority="1" />
+      <Item value="City" priority="1" />
+      <Item value="Company" priority="1" />
+      <Item value="Country" priority="1" />
+      <Item value="DebitNoteId" priority="0" />
+      <Item value="Description" priority="0" />
+      <Item value="Email" priority="1" />
+      <Item value="EntryTime" priority="0" />
+      <Item value="Faxno" priority="0" />
+      <Item value="InvoiceIds" priority="0" />
+      <Item value="PaymentTypeId" priority="0" />
+      <Item value="RedirectUrl" priority="0" />
+      <Item value="SellingCurrencyAmount" priority="0" />
+      <Item value="State" priority="2" />
+      <Item value="Telno" priority="0" />
+      <Item value="TelnoCc" priority="1" />
+      <Item value="TransactionId" priority="1" />
+      <Item value="TransactionStatus" priority="0" />
+      <Item value="TransactionType" priority="0" />
+      <Item value="Username" priority="1" />
+      <Item value="UserType" priority="0" />
+      <Item value="Zip" priority="0" />
+      <Item value="Mobileno" priority="0" />
+      <Item value="User" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="NewLine" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CCAvenueIntegrationDL.TransactionStatus">
+      <Item value="Requested" priority="0" />
+      <Item value="Completed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CCAvenueIntegrationDL.ObjectScopeProvider1">
+      <Item value="GetNewObjectScope`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Telerik.OpenAccess.IObjectScope">
+      <Item value="Transaction" priority="4" />
+      <Item value="Add`0" priority="1" />
+      <Item value="GetOqlQuery`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Telerik.OpenAccess.ITransaction">
+      <Item value="Begin`0" priority="1" />
+      <Item value="Commit`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="1" />
+      <Item value="StackTrace" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CCAvenueIntegrationDL.FromCcAvenue+TransactionStatus">
+      <Item value="Forgery" priority="1" />
+      <Item value="Declined" priority="0" />
+      <Item value="PostPoned" priority="0" />
+      <Item value="Success" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Telerik.OpenAccess.Query`1">
+      <Item value="ExecuteEnumerable`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CCAvenueIntegrationDL.SendMailViaGmail">
+      <Item value="SendMail`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

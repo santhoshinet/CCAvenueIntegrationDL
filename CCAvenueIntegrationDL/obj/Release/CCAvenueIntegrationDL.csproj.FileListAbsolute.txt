@@ -1,0 +1,11 @@
+C:\Users\Santhosh\Desktop\MyWorks\D2H\CCAvenueIntegrationDL\CCAvenueIntegrationDL\bin\Release\CCAvenueIntegrationDL.dll
+C:\Users\Santhosh\Desktop\MyWorks\D2H\CCAvenueIntegrationDL\CCAvenueIntegrationDL\bin\Release\CCAvenueIntegrationDL.pdb
+C:\Users\Santhosh\Desktop\MyWorks\D2H\CCAvenueIntegrationDL\CCAvenueIntegrationDL\bin\Release\Telerik.OpenAccess.Query.dll
+C:\Users\Santhosh\Desktop\MyWorks\D2H\CCAvenueIntegrationDL\CCAvenueIntegrationDL\bin\Release\Telerik.OpenAccess.Query.xml
+C:\Users\Santhosh\Desktop\MyWorks\D2H\CCAvenueIntegrationDL\CCAvenueIntegrationDL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Santhosh\Desktop\MyWorks\D2H\CCAvenueIntegrationDL\CCAvenueIntegrationDL\obj\Release\CCAvenueIntegrationDL.dll
+C:\Users\Santhosh\Desktop\MyWorks\D2H\CCAvenueIntegrationDL\CCAvenueIntegrationDL\obj\Release\CCAvenueIntegrationDL.pdb
+C:\Users\Santhosh\Desktop\MyWorks\D2H\CCAvenueIntegrationDL\CCAvenueIntegrationDL\bin\Debug\CCAvenueIntegrationDL.dll
+C:\Users\Santhosh\Desktop\MyWorks\D2H\CCAvenueIntegrationDL\CCAvenueIntegrationDL\bin\Debug\CCAvenueIntegrationDL.pdb
+C:\Users\Santhosh\Desktop\MyWorks\D2H\CCAvenueIntegrationDL\CCAvenueIntegrationDL\bin\Debug\Telerik.OpenAccess.Query.dll
+C:\Users\Santhosh\Desktop\MyWorks\D2H\CCAvenueIntegrationDL\CCAvenueIntegrationDL\bin\Debug\Telerik.OpenAccess.Query.xml
